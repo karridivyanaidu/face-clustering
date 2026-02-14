@@ -25,6 +25,10 @@ The project follows these steps:
 </p>
 <p align="center"><em>Before vs After Detection</em></p>
 
+<p align="center">
+  <img src="images/Dr_Shashi_Tharoor.jpg" width="300" style="margin-right:20px;">
+  <img src="images/Shashi_boxed.jpeg" width="300">
+</p>
 
 
 # KEY FINDINGS
