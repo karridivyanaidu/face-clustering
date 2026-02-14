@@ -20,7 +20,7 @@ The project follows these steps:
 
 # VISUAL RESULTS
 The results are attached.
-![Face Detection](images/fPlaksha_faculty_boxed.jpg)
+![Face Detection](images/fPlaksha_faculty_boxed.jpeg)
 
 
 # KEY FINDINGS
