@@ -20,7 +20,14 @@ The project follows these steps:
 
 # VISUAL RESULTS
 The results are attached.
-![Face Detection](images/fPlaksha_faculty_boxed.jpeg)
+
+![Face Detection](images/Plaksha_faculty_boxed.jpeg)
+
+![Template Face](images/Shashi_boxed.jpeg)
+
+![Original Image](images/Plaksha_Faculty.jpg)
+
+![Template Image](images/Dr_Shashi_Tharoor.jpg)
 
 
 # KEY FINDINGS
