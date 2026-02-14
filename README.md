@@ -20,6 +20,8 @@ The project follows these steps:
 
 # VISUAL RESULTS
 The results are attached.
+![Face Detection](images/fPlaksha_faculty_boxed.j)
+
 
 # KEY FINDINGS
 1) Distance based similarity effectively groups visually similar faces.
