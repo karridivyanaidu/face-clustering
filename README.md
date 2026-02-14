@@ -19,15 +19,12 @@ The project follows these steps:
 4) Visualization: Scatter plots display clustering results.
 
 # VISUAL RESULTS
-The results are attached.
+<p align="center">
+  <img src="images/Plaksha_Faculty.jpg" width="300">
+  <img src="images/Plaksha_faculty_boxed.jpeg" width="300">
+</p>
+<p align="center"><em>Before vs After Detection</em></p>
 
-![Face Detection](images/Plaksha_faculty_boxed.jpeg)
-
-![Template Face](images/Shashi_boxed.jpeg)
-
-![Original Image](images/Plaksha_Faculty.jpg)
-
-![Template Image](images/Dr_Shashi_Tharoor.jpg)
 
 
 # KEY FINDINGS
